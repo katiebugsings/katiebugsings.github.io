@@ -1,11 +1,12 @@
 ---
 layout: post
 title:      "Web Development Interest"
-date:       2017-11-08 00:11:21 +0000
+date:       2017-11-07 19:11:22 -0500
 permalink:  web_development_interest
 ---
 
 
+Hi there! Welcome to my blog.  This is my first time blogging so bear with me.
 I first heard of Flatiron School on the Channel 4 News.
 The first thing that sparked my interest was the job guarantee upon completion.
 I contacted the school itself for more information.  That was when I learned of the scholorship
